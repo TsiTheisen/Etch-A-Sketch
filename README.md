@@ -1,2 +1,1 @@
-# Etch-A-Sketch
-# Etch-A-Sketch
+A basic Etch-A-Sketch game. 
